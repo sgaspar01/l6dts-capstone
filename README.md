@@ -4,7 +4,7 @@ The Capstone Project [checklist](./checklist.md) is designed to be your companio
 
 ## Getting Started
 
-Before diving into your project, take time to familiarise yourself with the entire checklist. Store it somewhere easily accessible—perhaps in your project documentation folder or your preferred digital note-taking system. While the checklist provides suggested timeframes, you should adapt these to suit your specific project's complexity and your work schedule. Feel free to add your own project-specific items beneath the main points provided.
+Before diving into your project, take time to familiarise yourself with the entire checklist. Store it somewhere easily accessible&mdash;perhaps in your project documentation folder or your preferred digital note-taking system. While the checklist provides suggested timeframes, you should adapt these to suit your specific project's complexity and your work schedule. Feel free to add your own project-specific items beneath the main points provided.
 
 ## Understanding the Project Phases
 
@@ -22,15 +22,15 @@ The design phase spans weeks nine through twelve. Create your design artefacts e
 
 ### Implementation
 
-The implementation phase occupies weeks thirteen through eighteen. Before writing any code, ensure your development environment is properly configured. Maintain a detailed developer log documenting challenges encountered and solutions implemented. Your commit messages should tell the story of your development process—make them meaningful and descriptive.
+The implementation phase occupies weeks thirteen through eighteen. Before writing any code, ensure your development environment is properly configured. Maintain a detailed developer log documenting challenges encountered and solutions implemented. Your commit messages should tell the story of your development process&mdash;make them meaningful and descriptive.
 
 ### Testing
 
-Weeks nineteen and twenty focus on testing. Create your test plan before beginning the testing process, and document everything—including failed tests, as these often provide valuable insights for your report. Your testing should be comprehensive, covering unit tests, integration tests, and user acceptance testing as appropriate.
+Weeks nineteen and twenty focus on testing. Create your test plan before beginning the testing process, and document everything&mdash;including failed tests, as these often provide valuable insights for your report. Your testing should be comprehensive, covering unit tests, integration tests, and user acceptance testing as appropriate.
 
 ## Writing Your Report
 
-The report-writing process should begin from day one of your project. Keep a daily log of technical decisions, challenges faced, and solutions implemented. This contemporaneous record will prove invaluable when you begin assembling your final report. The checklist provides a clear structure for your report—use this to organise your documentation as you go along.
+The report-writing process should begin from day one of your project. Keep a daily log of technical decisions, challenges faced, and solutions implemented. This contemporaneous record will prove invaluable when you begin assembling your final report. The checklist provides a clear structure for your report&mdash;use this to organise your documentation as you go along.
 
 When writing your report, ensure you're regularly cross-referencing your work against the Software Engineer Knowledge and Skills requirements. Your technical explanations should be clear and well-structured, supported by relevant code snippets and diagrams where appropriate.
 
@@ -44,7 +44,7 @@ Regular meetings with your supervisor are essential. Use the checklist during th
 
 ## Time Management
 
-Effective time management is crucial for project success. Set your personal deadlines earlier than the final deadlines to give yourself buffer time for unexpected challenges. Remember that technical development is just one aspect of your project—you'll need to allocate sufficient time for documentation, report writing, and EPA preparation.
+Effective time management is crucial for project success. Set your personal deadlines earlier than the final deadlines to give yourself buffer time for unexpected challenges. Remember that technical development is just one aspect of your project&mdash;you'll need to allocate sufficient time for documentation, report writing, and EPA preparation.
 
 ## Quality Assurance
 
@@ -56,7 +56,7 @@ When you encounter challenges&mdash;and you will&mdash;don't hesitate to seek su
 
 ## Conclusion
 
-Your Capstone Project is an opportunity to demonstrate not just your technical skills, but your ability to manage a complex software development project from conception to delivery. The checklist is designed to support your success—use it actively, adapt it to your needs, and let it guide you through your journey. Stay organised, maintain clear documentation, and keep sight of both the technical and academic requirements of your project.
+Your Capstone Project is an opportunity to demonstrate not just your technical skills, but your ability to manage a complex software development project from conception to delivery. The checklist is designed to support your success&mdash;use it actively, adapt it to your needs, and let it guide you through your journey. Stay organised, maintain clear documentation, and keep sight of both the technical and academic requirements of your project.
 
 By following this structured approach and making full use of the checklist, you'll be well-positioned to deliver a successful Capstone Project that demonstrates your capabilities as a software engineer.
 
