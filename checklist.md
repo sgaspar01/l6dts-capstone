@@ -1,7 +1,7 @@
 # Capstone Project Checklist
 
 ## Initial Project Setup (Weeks 1-4)
-- [ ] Read and understand the assessment brief thoroughly
+- [X] Read and understand the assessment brief thoroughly
 - [ ] Identify a suitable software development project that:
   - [ ] Allows design and development of significant software/prototype
   - [ ] Has defined business objectives
