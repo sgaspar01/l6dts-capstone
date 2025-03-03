@@ -2,12 +2,12 @@
 
 ## Initial Project Setup (Weeks 1-4)
 - [X] Read and understand the assessment brief thoroughly
-- [ ] Identify a suitable software development project that:
-  - [ ] Allows design and development of significant software/prototype
-  - [ ] Has defined business objectives
-  - [ ] Targets specific user/customer group
-  - [ ] Addresses business needs
-  - [ ] Incorporates appropriate security measures
+- [X] Identify a suitable software development project that:
+  - [X] Allows design and development of significant software/prototype
+  - [X] Has defined business objectives
+  - [X] Targets specific user/customer group
+  - [X] Addresses business needs
+  - [X] Incorporates appropriate security measures
 - [ ] Complete the Employer Approval Form
   - [ ] Write project overview with aims and objectives
   - [ ] Get line manager/data owner signature
@@ -16,7 +16,7 @@
   - [ ] Write project summary (300 words)
   - [ ] Answer all ethics questions with mitigations
   - [ ] Submit to supervisor for approval
-- [ ] Schedule regular monthly meetings with project supervisor
+- [X] Schedule regular monthly meetings with project supervisor
 
 ## Software Requirements & Planning (Weeks 5-8)
 - [ ] Define clear software requirements
