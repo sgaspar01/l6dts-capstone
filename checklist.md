@@ -13,9 +13,11 @@
   - [ ] Get line manager/data owner signature
   - [ ] Get BPP supervisor signature
 - [ ] ~Complete the Ethics Form~
-  - [ ] Write project summary (300 words)
-  - [ ] Answer all ethics questions with mitigations
-  - [ ] Submit to supervisor for approval
+  - [ ] ~Write project summary (300 words)~
+  - [ ] ~Answer all ethics questions with mitigations~
+  - [ ] ~Submit to supervisor for approval~
+^ Complete Ethics form is crossed out as no personal data is collected for the project.
+  As discussed with supervisor.
 - [X] Schedule regular monthly meetings with project supervisor
 
 ## Software Requirements & Planning (Weeks 5-8)
