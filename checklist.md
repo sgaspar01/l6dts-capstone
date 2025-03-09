@@ -12,7 +12,7 @@
   - [ ] Write project overview with aims and objectives
   - [ ] Get line manager/data owner signature
   - [ ] Get BPP supervisor signature
-- [ ] Complete the Ethics Form
+- [ ] ~Complete the Ethics Form~
   - [ ] Write project summary (300 words)
   - [ ] Answer all ethics questions with mitigations
   - [ ] Submit to supervisor for approval
