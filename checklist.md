@@ -9,7 +9,7 @@
   - [X] Addresses business needs
   - [X] Incorporates appropriate security measures
 - [ ] Complete the Employer Approval Form
-  - [ ] Write project overview with aims and objectives
+  - [X] Write project overview with aims and objectives
   - [ ] Get line manager/data owner signature
   - [ ] Get BPP supervisor signature
 - Complete Ethics form is crossed out as no personal data is collected for the project. As discussed with supervisor.
