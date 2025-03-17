@@ -10,13 +10,12 @@
   - [X] Incorporates appropriate security measures
 - [ ] Complete the Employer Approval Form
   - [X] Write project overview with aims and objectives
-  - [ ] Get line manager/data owner signature
+  - [X] Get line manager/data owner signature
   - [ ] Get BPP supervisor signature
-- Complete Ethics form is crossed out as no personal data is collected for the project. As discussed with supervisor.
-- [ ] ~Complete the Ethics Form~
-  - [ ] ~Write project summary (300 words)~
-  - [ ] ~Answer all ethics questions with mitigations~
-  - [ ] ~Submit to supervisor for approval~
+- [ ] Complete the Ethics Form
+  - [X] Write project summary (300 words)
+  - [X] Answer all ethics questions with mitigations
+  - [X] Submit to supervisor for approval
 - [X] Schedule regular monthly meetings with project supervisor
 
 ## Software Requirements & Planning (Weeks 5-8)
