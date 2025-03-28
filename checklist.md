@@ -8,11 +8,11 @@
   - [X] Targets specific user/customer group
   - [X] Addresses business needs
   - [X] Incorporates appropriate security measures
-- [ ] Complete the Employer Approval Form
+- [X] Complete the Employer Approval Form
   - [X] Write project overview with aims and objectives
   - [X] Get line manager/data owner signature
-  - [ ] Get BPP supervisor signature
-- [ ] Complete the Ethics Form
+  - [X] Get BPP supervisor signature
+- [X] Complete the Ethics Form
   - [X] Write project summary (300 words)
   - [X] Answer all ethics questions with mitigations
   - [X] Submit to supervisor for approval
