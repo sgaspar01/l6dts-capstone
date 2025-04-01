@@ -19,12 +19,12 @@
 - [X] Schedule regular monthly meetings with project supervisor
 
 ## Software Requirements & Planning (Weeks 5-8)
-- [ ] Define clear software requirements
-  - [ ] Functional requirements
-  - [ ] Non-functional requirements
-  - [ ] Security requirements
-  - [ ] User requirements
-  - [ ] System requirements
+- [X] Define clear software requirements
+  - [X] Functional requirements
+  - [X] Non-functional requirements
+  - [X] Security requirements
+  - [X] User requirements
+  - [X] System requirements
 - [ ] Conduct initial literature review
   - [ ] Research similar software solutions
   - [ ] Review relevant technologies and frameworks
