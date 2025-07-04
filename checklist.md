@@ -41,12 +41,12 @@
 
 ## Design Phase (Weeks 9-12)
 - [X] Create software design artifacts:
-  - [X] System architecture diagrams
+  - [] System architecture diagrams
   - [X] Database design (if applicable)
-  - [X] UML diagrams
-    - [X] Use case diagrams
-    - [X] Class diagrams
-    - [X] Sequence diagrams
+  - [] UML diagrams
+    - [] Use case diagrams
+    - [] Class diagrams
+    - [] Sequence diagrams
   - [X] API specifications (if applicable)
   - [X] UI/UX wireframes
 - [X] Document design decisions and rationale
